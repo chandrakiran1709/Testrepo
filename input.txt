@@ -1,0 +1,10 @@
+Python
+Angular
+React
+Artificial Intelligence
+Data Science
+MongoDB
+SQL
+C++
+NoSQL
+Machine Learning

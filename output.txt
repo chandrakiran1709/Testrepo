@@ -1,0 +1,10 @@
+Python:7
+Angular:8
+React:6
+Artificial Intelligence:24
+Data Science:13
+MongoDB:8
+SQL:4
+C++:4
+NoSQL:6
+Machine Learning:17
